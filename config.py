@@ -26,7 +26,7 @@ win_6_photo = "https://imgur.com/a/UHNY2mN" # Ссылка на фото 6
 win_7_photo = "https://imgur.com/a/oyXufuy" # Ссылка на фото 7
 
 
-ref_procent = 20 # Реферальный процент
+ref_procent = 10 # Реферальный процент
 
 api_id = 9139417 # API_ID
 
@@ -52,10 +52,10 @@ games_list = {
 
 # коэффиценты
 pay_x_amount = {
-    "one": 1.8,
-    "two": 1.8,
+    "one": 1.9,
+    "two": 1.9,
     "three": 3,
-    "four": 1.8,
-    "five": 1.8,
-    "six": 1.8
+    "four": 1.9,
+    "five": 1.9,
+    "six": 1.9
 }
