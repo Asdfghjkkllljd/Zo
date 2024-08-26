@@ -28,9 +28,9 @@ win_7_photo = "https://imgur.com/a/oyXufuy" # Ссылка на фото 7
 
 ref_procent = 10 # Реферальный процент
 
-api_id = 24737448 # API_ID
+api_id = 21849678 # API_ID
 
-api_hash = "73642f0e524e23848f245188cd8e1e62" # API_HASH
+api_hash = "3740cc46835a13099392563d588fdf9b" # API_HASH
 
 DATABASE_PATH = "alt_script.db" #не трогать
 
