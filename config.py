@@ -6,16 +6,16 @@ ALL_ADMINS = [5846969551] # ID админОВ через запятую
 ADMIN_IDS = "5846969551" # ID админа
 
 NAME_PROJECT = "Extremecasino" # Название проекта
-BOT_LINK = "https://t.me/Casinoferz_bot" # Ссылка на бота
-pinned_link = "http://t.me/send?start=IVHwyPHF5FGy" # Ссылка на счет cryptobot
-rules_link = "https://t.me/rulescasin0" # Ссылка на правила
-rule_link = "https://t.me/rulescasin0" # Ссылка на сообщение с правилами
-support_link = "https://t.me/Spamferz_bot" # Ссылка на ТП
-casino_link = "https://t.me/+slWHIu2Wi40xNDUy" # Ссылка на само казино
-referalbot = "https://t.me/Casinoferz_bot" # Ссылка на реферального бота
-newschamel = "https://t.me/Casinoferz_bot" # Ссылка на канал новостей
-sub_link = "https://t.me/+dPSwOl5UTLI3Njky" # Ссылка на канал со ставками
-polzsogl = "https://telegra.ph/Polzovatelskoe-soglashenie-03-30-9" # Ссылка на пользовательское соглашение
+BOT_LINK = "@Extttremecasino_bot" # Ссылка на бота
+pinned_link = "http://t.me/send?start=IVpAqLJ8Pztg" # Ссылка на счет cryptobot
+rules_link = "https://t.me/+k42zVBd8Iz41ZDEy" # Ссылка на правила
+rule_link = "https://t.me/+k42zVBd8Iz41ZDEy" # Ссылка на сообщение с правилами
+support_link = "https://t.me/CEKC_HA_OCTPOBAX" # Ссылка на ТП
+casino_link = "https://t.me/extremecasinoo" # Ссылка на само казино
+referalbot = "https://t.me/Extttremecasino_bot" # Ссылка на реферального бота
+newschamel = "https://t.me/+k42zVBd8Iz41ZDEy" # Ссылка на канал новостей
+sub_link = "https://t.me/extremecasinoo" # Ссылка на канал со ставками
+polzsogl = "https://t.me/extremecasinoo" # Ссылка на пользовательское соглашение
 
 win_1_photo = "https://imgur.com/a/lOIfrpO" # Ссылка на фото 1
 win_2_photo = "https://imgur.com/a/4Ajr8lP" # Ссылка на фото 2
@@ -28,9 +28,9 @@ win_7_photo = "https://imgur.com/a/oyXufuy" # Ссылка на фото 7
 
 ref_procent = 10 # Реферальный процент
 
-api_id = 9139417 # API_ID
+api_id = 24737448 # API_ID
 
-api_hash = "d32b6fbbf46b371a8f38925867403394" # API_HASH
+api_hash = "73642f0e524e23848f245188cd8e1e62" # API_HASH
 
 DATABASE_PATH = "alt_script.db" #не трогать
 
