@@ -3,8 +3,8 @@ import random
 from aiogram import Bot, types
 import sqlite3
 
-BOT_TOKEN = '7223272479EMiQenBoEoCE'
-CHANNEL_ID = -1002193064253
+BOT_TOKEN = '7429518608:AAFMU2R_CyyLqPhWl2LJTWxTQVPU1DhSppk'
+CHANNEL_ID = -1002243436081
 NICKS = [
     'яочочо','true','MoneyEarner | AnyBet', '💘 Fucking duck',' ЯЗЫК ПРОГРАММИСТА','a4d07c307fedd79b'
 ]
