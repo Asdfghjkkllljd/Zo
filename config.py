@@ -1,11 +1,11 @@
-BOT_TOKEN = "7440880180:AAEOxw9CwCTtx0To7pMoNJZnlA5gbxBEDy0"
-CRYPTOBOT_TOKEN = "208036:AADMRaBcHwBu3WXjglrbqsijC3N2I5BJBbF" # CryptoPay токен
-CHANNEL_ID = -1002163204214 # ID канала со ставками
-LOGS_ID =  -1002226898207# ID Канала с платежами
-ALL_ADMINS = [6766118541] # ID админОВ через запятую
-ADMIN_IDS = "6766118541" # ID админа
+BOT_TOKEN = "7429518608:AAFMU2R_CyyLqPhWl2LJTWxTQVPU1DhSppk"
+CRYPTOBOT_TOKEN = "257530:AAjBbpqNi7zCgG9RQwAlTDLOFRdKySJ2N6Q" # CryptoPay токен
+CHANNEL_ID = -1002243436081 # ID канала со ставками
+LOGS_ID =  -1002226990800# ID Канала с платежами
+ALL_ADMINS = [5846969551] # ID админОВ через запятую
+ADMIN_IDS = "5846969551" # ID админа
 
-NAME_PROJECT = "Blumcube" # Название проекта
+NAME_PROJECT = "Extremecasino" # Название проекта
 BOT_LINK = "https://t.me/Casinoferz_bot" # Ссылка на бота
 pinned_link = "http://t.me/send?start=IVHwyPHF5FGy" # Ссылка на счет cryptobot
 rules_link = "https://t.me/rulescasin0" # Ссылка на правила
